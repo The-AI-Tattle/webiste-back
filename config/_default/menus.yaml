@@ -7,18 +7,13 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Featured
+  - name: Upcoming
     url: '#featured'
     weight: 20
-  - name: Research Philosophy
-    url: '#philosophy'
-    weight: 30
-  - name: Talks
+  - name: Past Talks
     url: '#talks'
     weight: 40
-  - name: Publications
-    url: "#publications"
-    weight: 50
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Federico Bianchi
+title: The AI Tattle
 
 # Is this the primary user of the site?
 superuser: true
@@ -9,38 +9,10 @@ superuser: true
 role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Bocconi University
-  url: https://www.unibocconi.it
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include meaning in natural language and programming languages.
+bio: The AI Tattle is a podcast hosted by Federico Bianchi and Amanda Curry.
 
-# Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Natural Language Processing
-- Cats
-- Emacs
-- Reasoning
-
-# Education to show in About widget
-education:
-  courses:
-  - course: PhD in Computer Science
-    institution: University of Milano-Bicocca
-    year: 2020
-  - course: MSc in Computer Science
-    institution: University of Milano-Bicocca
-    year: 2016
-  - course: BSc in Computer Science
-    institution: University of Milano-Bicocca
-    year: 2014
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -72,30 +44,4 @@ email: "f.bianchi@unibocconi.it"
 highlight_name: true
 ---
 
-Hello! I am Federico Bianchi, a post-doctoral researcher at Bocconi University 
-(with [Prof. Dirk Hovy](http://dirkhovy.com/)), Milan, Italy. 
-
-You can find my work in the main track of different AI venues (e.g., 
-NAACL, EACL, [AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/4594/4472), 
-[ACL](https://www.aclweb.org/anthology/2020.acl-main.154.pdf), 
-[ISWC](https://link.springer.com/chapter/10.1007/978-3-030-00671-6_4), 
-[RecSys](https://blog.coveo.com/multi-brand-personalization-in-ecommerce/))
- and Q1 Journals (e.g., [Cognitive Science](https://onlinelibrary.wiley.com/doi/10.1111/cogs.12963),
-  [Nature PJQI](https://www.nature.com/articles/s41534-020-0248-6), 
-  [SWJ](http://www.semantic-web-journal.net/system/files/swj2188.pdf)) 
-  and a few things have also been featured in press or in company media outlets 
-  (see, [1](https://phys.org/news/2020-02-machine-quantum-optics.html),
-[2](https://www.photonics.com/Articles/Neural_Network_Improves_Quantum_Tomography/a65552),
-[3](https://www.knowledge.unibocconi.eu/notizia.php?idArt=21787),
-[4](https://blog.coveo.com/multi-brand-personalization-in-ecommerce/)).
-
-I have different interests that range from neuro-symbolic learning and 
-reasoning to natural language processing and from quantum physics to deep learning for the e-commerce.
-
-
-I have also worked/collaborated with companies: 
-I have collaborated as a Data Scientist for Instal LLC and 
-I have an ongoing research collaboration with people at Coveo on e-commerce and recommendation research. 
-
-I have given talks in different places for both Universities (e.g., Edinburgh University, Sussex University, Tilburg University) 
-and Companies (Coveo Labs, LightOn AI) and tutorials at major AI Conferences (IJCAI, IJCLR).
+The AI Tattle is a podcast hosted by Federico Bianchi and Amanda Curry.
