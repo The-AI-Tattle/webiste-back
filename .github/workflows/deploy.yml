@@ -27,6 +27,7 @@ jobs:
         with:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: The-AI-Tattle/the-ai-tattle.github.io
+          cname: aitattle.com
           publish_dir: ./public
           #   keep_files: true
           user_name: vinid
