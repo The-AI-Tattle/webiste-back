@@ -6,7 +6,7 @@ title: The AI Tattle
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Podcast
 
 # Organizations/Affiliations to show in About widget
 
@@ -44,4 +44,6 @@ email: "f.bianchi@unibocconi.it"
 highlight_name: true
 ---
 
-The AI Tattle is a podcast hosted by Federico Bianchi and Amanda Curry.
+The AI Tattle is a podcast hosted by Federico Bianchi and Amanda Curry. The idea behind the podcast is to give to
+PhD Students, PostDocs and recently promoted Assistant Professors the opportunity to share their research in a friendly 
+environment. 
