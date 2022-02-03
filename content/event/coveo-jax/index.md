@@ -5,10 +5,8 @@ event: Invited Talk
 
 location: Coveo Labs
 
-
 summary: I gave a tutorial on JAX,  the new google framework for deep learning. I have described how to compute simple
  derivatives and finished describing some applications in NLP.
-
 
 abstract: "In this tutorial I introduce JAX, the new google framework for deep learning. We first introduce the main peculiarities and describe how to compute gradients to optimize simple ML algorithms. Eventually, we implement more complex NLP pipelines, showing were JAX modularity comes to shine."
 
@@ -25,7 +23,7 @@ authors: ["Federico Bianchi"]
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Google JAX**](https://raw.githubusercontent.com/google/jax/master/images/jax_logo_250px.png)'
