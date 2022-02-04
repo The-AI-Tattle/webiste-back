@@ -1,25 +1,24 @@
 ---
-title: "Talk: Learning JAX for Great Good"
+title: "Talk: Anna Wegmann"
 
 event: Invited Talk
 
-location: Coveo Labs
+location: Live Talk
 
-summary: I gave a tutorial on JAX,  the new google framework for deep learning. I have described how to compute simple
- derivatives and finished describing some applications in NLP.
+summary: 
+abstract: ""
 
-abstract: "In this tutorial I introduce JAX, the new google framework for deep learning. We first introduce the main peculiarities and describe how to compute gradients to optimize simple ML algorithms. Eventually, we implement more complex NLP pipelines, showing were JAX modularity comes to shine."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-02-17T13:00:00Z"
+date: "2022-02-17T18:00:00Z"
 
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-03-01T00:00:00Z"
 
-authors: ["Federico Bianchi"]
+authors: ["Anna Wegmann"]
 tags: []
 
 # Is this a featured talk? (true/false)
