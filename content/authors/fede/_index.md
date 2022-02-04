@@ -1,6 +1,6 @@
 ---
 # Display name
-title: The AI Tattle
+title: Federico Bianchi
 
 # Is this the primary user of the site?
 superuser: true
@@ -9,7 +9,7 @@ superuser: true
 role: Podcast
 
 # Organizations/Affiliations to show in About widget
-
+user_groups: ["Host"]
 
 # Short bio (displayed in user profile at end of posts)
 bio: Bla bla
