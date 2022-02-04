@@ -3,6 +3,13 @@
 widget: people
 headless: true  # This file represents a page section.
 
+
+
+# Order that this section appears on the page.
+weight: 22
+
+title: 'Past Talks'
+subtitle:
 # ... Put Your Section Options Here (title etc.) ...
 
 content:
