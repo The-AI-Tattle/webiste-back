@@ -1,3 +1,5 @@
+---
+
 widget: people
 headless: true  # This file represents a page section.
 
