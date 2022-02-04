@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Federico Bianchi
+title: Amanda Curry
 
 # Is this the primary user of the site?
 superuser: true

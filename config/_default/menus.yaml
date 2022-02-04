@@ -7,6 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Hosts
+    url: '#hosts'
+    weight: 30
   - name: Upcoming
     url: '#featured'
     weight: 20
