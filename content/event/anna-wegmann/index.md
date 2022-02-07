@@ -5,7 +5,7 @@ event: Invited Talk
 
 location: Live Talk
 
-summary: 
+summary: "A discussion on Ethics and Bias in NLP"
 abstract: ""
 
 

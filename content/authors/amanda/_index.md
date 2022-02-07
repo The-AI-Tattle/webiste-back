@@ -17,16 +17,16 @@ bio: Bla bla
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/federicobianchy
+  link: https://twitter.com/CurriedAmanda
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=1okGjb8AAAAJ
+  link: https://scholar.google.com/citations?user=wJ3c5wMAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/vinid
+  link: https://github.com/amandacurry
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/federico-bianchi-3b7998121/
+  link: https://www.linkedin.com/in/amanda-cercas-curry/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -36,7 +36,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "f.bianchi@unibocconi.it"
+email: "amanda.cercas@unibocconi.it"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
