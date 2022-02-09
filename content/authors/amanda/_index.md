@@ -9,7 +9,7 @@ superuser: true
 role: PostDoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
-user_groups: ["Host"]
+user_groups: ["Hosts"]
 
 # Short bio (displayed in user profile at end of posts)
 bio: Bla bla
